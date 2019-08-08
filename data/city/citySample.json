@@ -1,1 +1,0 @@
-{"kmspmPerf": {"isKMSPM": true, "baseTable": "Application.Cities", "maxCount": 500 },"database": 2,"type":"query","query":{"source_table":5,"filter":["=",["field-id",36],{"isKMSPM": true, "baseTable": "Application.Cities", "baseField": "CityName"}]},"parameters":[]}
