@@ -1,0 +1,9 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,Latency,IdleTime,Connect
+1565247560327,1135,createSession,200,OK,Metabase-login-get-db-info 1-1,text,true,,403,306,1,1,1135,0,963
+1565247561549,69,getCurrentUser,200,OK,Metabase-login-get-db-info 1-1,text,true,,635,300,1,1,69,0,0
+1565247561621,162,getDBInfo,200,OK,Metabase-login-get-db-info 1-1,text,true,,23050,335,1,1,161,0,0
+1565247561823,210,GetTableCitiesMeta,200,OK,Metabase-login-get-db-info 1-1,text,true,,7640,310,1,1,210,0,0
+1565247566444,36896,QueryDataFrom DB>Table>Field,200,OK,Metabase-query-load-test 2-1,text,true,,781,431,2,2,36896,0,77
+1565247576481,26871,QueryDataFrom DB>Table>Field,200,OK,Metabase-query-load-test 2-2,text,true,,787,437,2,2,26871,0,82
+1565247603564,37803,QueryDataFrom DB>Table>Field,200,OK,Metabase-query-load-test 2-1,text,true,,781,431,2,2,37803,0,352
+1565247603805,37568,QueryDataFrom DB>Table>Field,200,OK,Metabase-query-load-test 2-2,text,true,,780,430,1,1,37568,0,112
